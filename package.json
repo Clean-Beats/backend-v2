@@ -1,0 +1,17 @@
+[backend-v2/package.json
+]
+{
+  "name": "backend-v2",
+  "version": "1.0.0",
+  "description": "Backend V2 for CleanBeats with enhanced features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
